@@ -12,7 +12,7 @@ Currently completing an intensive analytics training program covering Excel, Pow
 🗂️ Portfolio Projects
  📁 Project 1 — Canadian Aviation Analytics (1981–2025)
 **Tool:** Microsoft Excel | **Data:** Statistics Canada (official government data)
-[Project 1](Screenshots/Project1_Canadian_Ailines_2019-2024.png)
+[Project 1-Screenshot](Screenshots/Project1_Canadian_Ailines_2019-2024.png)
 
 **What I built:**
 - Reshaped 4,669 rows of long-format government data into a clean analysis table
@@ -28,7 +28,7 @@ Currently completing an intensive analytics training program covering Excel, Pow
 
 📁 Project 2 — US Flight Delays Q1 2019
 **Tool:** Microsoft Excel | **Data:** Kaggle (US DOT) — filtered from 6.5M rows to 1M
-[Project 2](Screenshots/Project2_Canadian_Aviation_Analysis_45 years.png)
+[Project 2-Screenshot](Screenshots/Project2_Canadian_Aviation_Analysis_45 years.png)
 
 **What I built:**
 - Extracted a focused 1,007,213-row subset from a 1.3GB raw dataset
@@ -44,7 +44,7 @@ Currently completing an intensive analytics training program covering Excel, Pow
 
 📁 Project 3 — Global Passenger Satisfaction Analytics
 **Tool:** Microsoft Excel | **Data:** Kaggle airline satisfaction survey (103,904 reviews)
-[Project 3](Screenshots/Project3_Aviation_Passenger_Satisfaction.png)
+[Project 3-Screenshot](Screenshots/Project3_Aviation_Passenger_Satisfaction.png)
 
 **What I built:**
 - Cleaned and validated 103,904 passenger reviews across 24 variables
