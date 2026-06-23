@@ -14,7 +14,7 @@ Currently completing an intensive analytics training program covering Excel, Pow
  📁 Project 1 — Canadian Aviation Analytics (1981–2025)
 **Tool:** Microsoft Excel | **Data:** Statistics Canada (official government data)
 
-[Project 1-Screenshot](Screenshots/Project1_Canadian_Airlines_2019-2024.png)
+[Project 1-Screenshot](Screenshots/Project1_Canadian_Aviation_Analysis_45_years.png)
 
 **What I built:**
 - Reshaped 4,669 rows of long-format government data into a clean analysis table
@@ -31,7 +31,7 @@ Currently completing an intensive analytics training program covering Excel, Pow
 📁 Project 2 — US Flight Delays Q1 2019
 **Tool:** Microsoft Excel | **Data:** Kaggle (US DOT) — filtered from 6.5M rows to 1M
 
-[Project 2-Screenshot](Screenshots/Project2_Canadian_Aviation_Analysis_45_years.png)
+[Project 2-Screenshot](Screenshots/Project2_Canadian_Airlines_2019-2024.png)
 
 
 **What I built:**
