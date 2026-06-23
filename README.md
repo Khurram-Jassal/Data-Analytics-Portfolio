@@ -28,7 +28,7 @@ Currently completing an intensive analytics training program covering Excel, Pow
 
 📁 Project 2 — US Flight Delays Q1 2019
 **Tool:** Microsoft Excel | **Data:** Kaggle (US DOT) — filtered from 6.5M rows to 1M
-[Project 2-Screenshot](Screenshots/Project2_Canadian_Aviation_Analysis_45 years.png)
+[Project 2-Screenshot](Project2_Canadian_Aviation_Analysis_45 years.png)
 
 **What I built:**
 - Extracted a focused 1,007,213-row subset from a 1.3GB raw dataset
