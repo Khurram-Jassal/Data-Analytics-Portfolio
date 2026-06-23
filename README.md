@@ -48,7 +48,7 @@ Currently completing an intensive analytics training program covering Excel, Pow
 
 📁 Project 3 — Global Passenger Satisfaction Analytics
 **Tool:** Microsoft Excel | **Data:** Kaggle airline satisfaction survey (103,904 reviews)
-[Project 3-Screenshot](Screenshots/Project2_Canadian_Aviation_Analysis_45_years.png)
+[Project 3-Screenshot](Screenshots/Project3_Aviation_Passenger_Satisfaction.png)
 
 **What I built:**
 - Cleaned and validated 103,904 passenger reviews across 24 variables
