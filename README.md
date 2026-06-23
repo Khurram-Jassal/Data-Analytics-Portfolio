@@ -10,9 +10,10 @@ I'm a data analyst building a portfolio of real-world analytics projects across 
 Currently completing an intensive analytics training program covering Excel, Power BI, Python, and SQL — targeting a data analyst role in the Canadian aviation industry or any data-driven organization.
 
 🗂️ Portfolio Projects
+
  📁 Project 1 — Canadian Aviation Analytics (1981–2025)
 **Tool:** Microsoft Excel | **Data:** Statistics Canada (official government data)
-[Project 1-Screenshot](Screenshots/Project1_Canadian_Ailines_2019-2024.png)
+[Project 1-Screenshot](Screenshots/Project1_Canadian_Airlines_2019-2024.png)
 
 **What I built:**
 - Reshaped 4,669 rows of long-format government data into a clean analysis table
@@ -28,7 +29,7 @@ Currently completing an intensive analytics training program covering Excel, Pow
 
 📁 Project 2 — US Flight Delays Q1 2019
 **Tool:** Microsoft Excel | **Data:** Kaggle (US DOT) — filtered from 6.5M rows to 1M
-[Project 2-Screenshot](Project2_Canadian_Aviation_Analysis_45 years.png)
+[Project 2-Screenshot](Screenshots/Project2_Canadian_Aviation_Analysis_45 years.png)
 
 **What I built:**
 - Extracted a focused 1,007,213-row subset from a 1.3GB raw dataset
