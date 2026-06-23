@@ -31,7 +31,7 @@ Currently completing an intensive analytics training program covering Excel, Pow
 📁 Project 2 — US Flight Delays Q1 2019
 **Tool:** Microsoft Excel | **Data:** Kaggle (US DOT) — filtered from 6.5M rows to 1M
 
-[Project 3-Screenshot](Screenshots/Project2_Canadian_Aviation_Analysis_45_years.png)
+[Project 2-Screenshot](Screenshots/Project2_Canadian_Aviation_Analysis_45_years.png)
 
 
 **What I built:**
@@ -48,7 +48,7 @@ Currently completing an intensive analytics training program covering Excel, Pow
 
 📁 Project 3 — Global Passenger Satisfaction Analytics
 **Tool:** Microsoft Excel | **Data:** Kaggle airline satisfaction survey (103,904 reviews)
-[Project 3-Screenshot](Screenshots/Project3_Aviation_Passenger_Satisfaction.png)
+[Project 3-Screenshot](Screenshots/Project2_Canadian_Aviation_Analysis_45_years.png)
 
 **What I built:**
 - Cleaned and validated 103,904 passenger reviews across 24 variables
